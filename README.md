@@ -8,6 +8,7 @@ The project is built with python 3.12. We haven't tested it with the older versi
 features of FastAPI, it should work with older versions as well.
 We recommend using poetry to manage the dependencies. However, we've also included a `requirements.txt` file for those 
 who prefer using pip and virtual envs.
+
 ### Poetry
 ```shell
 poetry install
